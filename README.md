@@ -18,7 +18,8 @@ Analyze ride-booking trends, operational efficiency, customer behavior, and reve
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](<img width="1181" height="665" alt="image" src="https://github.com/user-attachments/assets/30ab713c-8c04-4816-a199-65e0b6780236" />
+![Dashboard Screenshot](<img width="1156" height="646" alt="Screenshot 2025-10-10 094538" src="https://github.com/user-attachments/assets/31283fb2-2e01-4a0c-816f-3f269faa0a23" />
+
 )
 
 ---
