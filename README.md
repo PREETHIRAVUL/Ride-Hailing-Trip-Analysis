@@ -58,7 +58,7 @@ Analyze ride-booking trends, operational efficiency, customer behavior, and reve
 ---
 
 ## Live Dashboard
-[View Interactive Dashboard](PASTE_POWER_BI_LINK_HERE)
+[View Interactive Dashboard]("C:\Users\Ravula preethi\Downloads\uber analysis.pbit")
 
 ---
 
