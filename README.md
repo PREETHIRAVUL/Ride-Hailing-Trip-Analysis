@@ -53,7 +53,7 @@ Analyze ride-booking trends, operational efficiency, customer behavior, and reve
 - Improve surge pricing strategies during high-demand periods
 - Encourage digital payment adoption for operational efficiency
 - Promote high-performing vehicle categories
-- Improve ride distribution using trip distance and location insights
+- Improve ride distribution using trip distance and location insights.
 
 ---
 
